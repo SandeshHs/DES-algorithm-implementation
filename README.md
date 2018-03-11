@@ -1,7 +1,5 @@
 # DES-algorithm-implementation
 
-Implementation of DES algortithm using VHDL<br/>
-<br/>
 DES is a block cipher encryption and decryption technique which works with blocks of 64 bits. We use a 64 bit block as input, also known as plain text which undergoes a series of operations to produce a 64 bit cipher text as the output. Since this is a symmetric key algorithm, the same key of length 64 bits is used for both encryption and decryption. The algorithm uses only standard arithmetic and logical operations on numbers of 64 bits at most forming the basis for encryption standards such as 2DES and 3DES. The simplicity of DES made it useful in a variety of embedded systems, smart cards, SIM cards and network devices requiring encryption like modems, set-top boxes and routers.
 <br/>
 <br/>
