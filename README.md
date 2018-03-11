@@ -11,7 +11,7 @@ Design Properties<br/>
 • Synthesis tool : XST ( VHDL/Verilog)<br/>
 •Simulator : ISim (VHDL/Verilog)<br/>
 <br/>
-Steps to use the codes:<br/>
+Steps to implement the code:<br/>
 1.After extracting the zipfile you should see two folders which contain VHDL codes and TESTBENCHES.
 
 2.Open Xilinx ISE > File > New Project.
